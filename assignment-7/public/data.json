@@ -1,0 +1,92 @@
+[
+  {
+    "ID": "#1001",
+    "Title": "Login Issues - Can't Access Account",
+    "Description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still...",
+    "Status": "Open",
+    "Priority": "HIGH PRIORITY",
+    "Assignee": "John Smith",
+    "Date": "1/15/2024"
+  },
+  {
+    "ID": "#1002",
+    "Title": "Payment Failed - Card Declined",
+    "Description": "Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.",
+    "Status": "Open",
+    "Priority": "HIGH PRIORITY",
+    "Assignee": "Sarah Johnson",
+    "Date": "1/16/2024"
+  },
+  {
+    "ID": "#1003",
+    "Title": "Unable to Download Invoice",
+    "Description": "Customer cannot download their January invoice from the billing section. The download button is...",
+    "Status": "In- Progress",
+    "Priority": "MEDIUM PRIORITY",
+    "Assignee": "Michael Brown",
+    "Date": "1/17/2024"
+  },
+  {
+    "ID": "#1004",
+    "Title": "Incorrect Billing Address",
+    "Description": "Customer's billing address shows a different city. They updated it but it still displays the old one.",
+    "Status": "Open",
+    "Priority": "LOW PRIORITY",
+    "Assignee": "Emily Davis",
+    "Date": "1/18/2024"
+  },
+  {
+    "ID": "#1005",
+    "Title": "App Crash on Launch",
+    "Description": "Customer reports that the mobile app crashes immediately upon opening on Android 13.",
+    "Status": "Open",
+    "Priority": "HIGH PRIORITY",
+    "Assignee": "David Wilson",
+    "Date": "1/19/2024"
+  },
+  {
+    "ID": "#1006",
+    "Title": "Refund Not Processed",
+    "Description": "Customer requested a refund two weeks ago but has not received the amount yet.",
+    "Status": "In- Progress",
+    "Priority": "MEDIUM PRIORITY",
+    "Assignee": "Sophia Taylor",
+    "Date": "1/20/2024"
+  },
+  {
+    "ID": "#1007",
+    "Title": "Two-Factor Authentication Issue",
+    "Description": "Customer is not receiving 2FA codes on their registered phone number.",
+    "Status": "Open",
+    "Priority": "HIGH PRIORITY",
+    "Assignee": "James Anderson",
+    "Date": "1/21/2024"
+  },
+  {
+    "ID": "#1008",
+    "Title": "Unable to Update Profile Picture",
+    "Description": "Customer tries to upload a new profile picture but gets 'Upload failed' error.",
+    "Status": "Open",
+    "Priority": "LOW PRIORITY",
+    "Assignee": "Olivia Martinez",
+    "Date": "1/22/2024"
+  },
+  {
+    "ID": "#1009",
+    "Title": "Subscription Auto-Renewal",
+    "Description": "Customer wants to enable auto-renewal for their subscription but the toggle is disabled.",
+    "Status": "In- Progress",
+    "Priority": "MEDIUM PRIORITY",
+    "Assignee": "Liam Thomas",
+    "Date": "1/17/2024"
+  },
+  {
+    "ID": "#1010",
+    "Title": "Missing Order Confirmation Email",
+    "Description": "Customer placed an order but didn't receive a confirmation email even though payment succeeded.",
+    "Status": "Open",
+    "Priority": "MEDIUM PRIORITY",
+    "Assignee": "Isabella Garcia",
+    "Date": "1/24/2024"
+  }
+]
